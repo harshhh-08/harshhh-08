@@ -70,11 +70,11 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harsh200814)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshhh-08)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh200814&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh200814&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh200814" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshhh-08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhh-08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhh-08" alt="GitHub Streak" />
 </div>
   
   
@@ -82,14 +82,14 @@ I specialize in creating scalable web apps, exploring AI-driven innovations, and
 
 
 # 🌐 Connect With Me
-<div align="left"> <a href="https://twitter.com/harsh142008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh142008" height="50" width="50" /></a> <a href="https://linkedin.com/in/harsh142008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh142008" height="50" width="50" /></a> <a href="https://codeforces.com/profile/harsh142008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harsh142008" height="50" width="50" /></a> <a href="https://github.com/Harsh200814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="harsh142008" height="50" width="50" /></a> </div>
+<div align="left"> <a href="https://twitter.com/harshhh-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhh-08" height="50" width="50" /></a> <a href="https://linkedin.com/in/harshhh-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshhh-08" height="50" width="50" /></a> <a href="https://codeforces.com/profile/harshhh-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshhh-08" height="50" width="50" /></a> <a href="https://github.com/harshhh-08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="harshhh-08" height="50" width="50" /></a> </div>
 
 
 <h2 align="center">
   <b>Let’s build something amazing together!</b>
 </h2> 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh200814&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Harsh200814/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshhh-08&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/harshhh-08/github-readme-activity-graph)
 
 
 </p>
